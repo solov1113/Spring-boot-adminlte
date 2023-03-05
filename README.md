@@ -23,7 +23,7 @@ TODO
 Run the application:
 ---
 We assume that You already installed maven and JDK 8 (minimum) on your environment.
-1. Clone the repository: `git clone https://github.com/hendisantika/spring-boot-adminlte.git`
+1. Clone the repository: `git clone https://github.com/ericdev0212/spring-boot-adminlte.git`
 2. Go to the folder: `cd spring-boot-adminlte`
 3. Run the app: `mvn clean spring-boot:run`
 4. Open Your favorite browser, then go to http://localhost:8080
